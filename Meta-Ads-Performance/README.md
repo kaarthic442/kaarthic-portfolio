@@ -1,5 +1,7 @@
 # Meta Ads Performance Analysis Dashboard
 
+![Meta Dashboard](Meta_Dashboard.png)
+
 ## Project Overview
 This project analyzes advertising campaign performance on Facebook and Instagram using Power BI.  
 The dashboard provides insights into campaign reach, engagement, conversions, and budget utilization to help marketing teams optimize campaign performance and ROI.
