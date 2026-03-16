@@ -28,7 +28,7 @@ Product sales performance dashboard analyzing revenue and category trends.
 ### 5️⃣ HR Analytics Dashboard
 Employee workforce analytics dashboard analyzing attrition, demographics, and department performance.
 
-🔗 [View Project](./5-HR-Analytics-Dashboard)
+🔗 [View Project](./-HR-Analytics-Dashboard)
 
 ## Tools & Skills
 
