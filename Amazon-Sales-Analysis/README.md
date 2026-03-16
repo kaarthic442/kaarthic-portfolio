@@ -1,5 +1,7 @@
 # Amazon Sales Analysis Dashboard
 
+![Amazon Dashboard](Amazon_Dashboard.png)
+
 ## Project Overview
 
 This project analyzes **Amazon product sales data** using **Power BI** to uncover insights related to sales performance, product demand, and customer engagement through reviews.
