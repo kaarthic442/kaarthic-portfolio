@@ -23,10 +23,33 @@ Marketing performance dashboard analyzing campaign reach, engagement, and conver
 📂 Project Folder  
 3-Meta-Ads-Performance
 
+### 4️⃣ Amazon Sales Analysis
+Product sales performance dashboard analyzing revenue and category trends.
+
+📂 Project Folder  
+4-Amazon-Sales-Analysis
+
 ## Tools & Skills
-Power BI  
-DAX  
-Power Query  
-Data Modeling  
-Business Intelligence  
-Dashboard Design
+
+**Business Intelligence & Visualization**
+- Power BI
+- Power BI Service
+- Dashboard Design
+- Data Storytelling
+
+**Data Preparation & Modeling**
+- Power Query
+- Data Modeling (Star Schema)
+- Data Transformation
+
+**Data Analysis**
+- DAX (Data Analysis Expressions)
+- KPI Development
+- Time Intelligence Calculations
+
+**Database**
+- SQL
+
+**Certifications**
+- Microsoft PL-300: Power BI Data Analyst
+- Tableau Desktop Specialist
