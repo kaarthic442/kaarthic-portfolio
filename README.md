@@ -15,6 +15,7 @@ Dashboard analyzing trip bookings, revenue trends, and trip efficiency.
 
 🔗 [View Project](./Uber-Trip-Analysis)
 
+---
 
 ### 2️⃣ Meta Ads Performance Analysis
 
@@ -24,6 +25,7 @@ Marketing performance dashboard analyzing campaign reach, engagement, and conver
 
 🔗 [View Project](./Meta-Ads-Performance)
 
+---
 
 ### 3️⃣ Shopify Sales Analysis
 
@@ -33,6 +35,7 @@ Sales analytics dashboard analyzing transactions, customer behavior, and lifetim
 
 🔗 [View Project](./Shopify-Sales-Analysis)
 
+---
 
 ### 4️⃣ Amazon Sales Analysis
 
@@ -42,6 +45,7 @@ Product sales performance dashboard analyzing revenue, ratings, and category tre
 
 🔗 [View Project](./Amazon-Sales-Analysis)
 
+---
 
 ### 5️⃣ HR Analytics Dashboard
 
@@ -50,6 +54,7 @@ Product sales performance dashboard analyzing revenue, ratings, and category tre
 Employee workforce analytics dashboard analyzing attrition, demographics, and department performance.
 
 🔗 [View Project](./HR-Analytics-Dashboard)
+
 ---
 
 ## 🛠 Tools & Skills
