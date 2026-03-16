@@ -1,4 +1,4 @@
-# 📊 Power BI Portfolio – Kaarthic
+# 📊 Power BI Portfolio – Kaarthic T
 
 Welcome to my Power BI project portfolio.  
 These projects demonstrate my expertise in **data modeling, DAX calculations, Power Query transformations, and interactive dashboard development.**
