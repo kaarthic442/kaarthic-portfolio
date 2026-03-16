@@ -25,6 +25,11 @@ Product sales performance dashboard analyzing revenue and category trends.
 
 🔗 [View Project](./Amazon-Sales-Analysis)
 
+### 5️⃣ HR Analytics Dashboard
+Employee workforce analytics dashboard analyzing attrition, demographics, and department performance.
+
+🔗 [View Project](./5-HR-Analytics-Dashboard)
+
 ## Tools & Skills
 
 **Business Intelligence & Visualization**
