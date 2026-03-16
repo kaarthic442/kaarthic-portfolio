@@ -8,26 +8,22 @@ These projects demonstrate my skills in data modeling, DAX calculations, Power Q
 ### 1️⃣ Uber Trip Analysis
 Dashboard analyzing trip bookings, revenue trends, and trip efficiency.
 
-📂 Project Folder  
-1-Uber-Trip-Analysis
+🔗 [View Project](./1-Uber-Trip-Analysis)
 
 ### 2️⃣ Shopify Sales Analysis
 Sales analytics dashboard analyzing transactions, customer behavior, and lifetime value.
 
-📂 Project Folder  
-2-Shopify-Sales-Analysis
+🔗 [View Project](./2-Shopify-Sales-Analysis)
 
 ### 3️⃣ Meta Ads Performance Analysis
 Marketing performance dashboard analyzing campaign reach, engagement, and conversions.
 
-📂 Project Folder  
-3-Meta-Ads-Performance
+🔗 [View Project](./3-Meta-Ads-Performance)
 
 ### 4️⃣ Amazon Sales Analysis
 Product sales performance dashboard analyzing revenue and category trends.
 
-📂 Project Folder  
-4-Amazon-Sales-Analysis
+🔗 [View Project](./4-Amazon-Sales-Analysis)
 
 ## Tools & Skills
 
